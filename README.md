@@ -5,3 +5,5 @@ This project explores the growing challenge of detecting AI generated synthetic 
 Next, we tested the robustness of the detector using the Fast Gradient Sign Method. Small, visually imperceptible perturbations significantly reduced confidence scores and in several cases flipped predictions from fake to real. This demonstrated that high classification accuracy does not guarantee robustness.
 
 Based on these findings, we propose adversarial training as a concrete improvement strategy to strengthen the model against such vulnerabilities. This work highlights the importance of evaluating AI systems not only for performance but also for resilience in adversarial settings.
+
+demo explanation video drive link: https://drive.google.com/drive/folders/1BWd4Kuo-tlgTMiyLVQQT1GgCYnT2borg?usp=sharing
